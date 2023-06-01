@@ -1,0 +1,25 @@
+Maksim Franuk
+34
+Classic, Rock
+Ivanov
+
+Vasyl Mihovskiu
+45
+Classic, Jazz
+Ivanov
+
+Mukuta Franuk
+35
+Classic
+Promich, Mikulyan
+
+Rostislav Doruk
+34
+Classic, Rock
+Kruchivskiu
+
+Kirill Putintsev
+18
+Classic, Rock, Rock
+Kruchivskiu, Ivanov
+
